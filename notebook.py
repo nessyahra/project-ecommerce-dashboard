@@ -10,7 +10,6 @@ Original file is located at
 
 
 *   **Nama:** Venessa Yumadila S
-*   **e-mail:** vyumadila@gmail.com
 *   **Id Dicoding:** nessasyahra
 
 ## Menentukan Pertanyaan
