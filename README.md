@@ -1,6 +1,6 @@
 # Project with E-Commerce Public Dataset ✨
 An analysis project with Brazilian E-Commerce Public Dataset who has 100k orders from 2016 to 2018 and make a simple dashboard from the result.
-<br> Check the dataset from Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_payments_dataset.csv
+<br> Check the dataset from Kaggle: [E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_payments_dataset.csv "E-Commerce Dataset")
 
 # Setup
 conda create --name main-ds python=3.9
